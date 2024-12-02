@@ -30,7 +30,7 @@ int main() {
         "IQ", "Blitz", "Osa", "Grim", "Ram", "Deimos", "Kali", "Amaru", "Gridlock", "Nomad", "Nokk", "Finka",
         "Lion", "Dokkaebi", "Glaz", "Fuze", "Hibana", "Jackal", "Ying", "Zofia", "Brava"};
 
-    vector<string> defOps = {"Sentry", "Smoke", "Mute", "Castle", "Pulse", "Doc", "Rook", "Kapkan", "Tachanka", "Jäger",
+    vector<string> defOps = {"Sentry", "Smoke", "Mute", "Castle", "Pulse", "Doc", "Rook", "Kapkan", "Tachanka", "Jager",
         "Bandit", "Frost", "Valkyrie", "Caveira", "Echo", "Mira", "Lesion", "Ela", "Vigil", "Alibi", "Maestro", "Clash",
         "Kaid", "Mozzie", "Warden", "Goyo", "Wamai", "Oryx", "Melusi", "Aruni", "Thunderbird", "Thorn", "Azami", "Solis",
         "Fenrir", "Tubarao", "Skopos"};

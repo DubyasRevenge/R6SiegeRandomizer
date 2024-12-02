@@ -71,7 +71,8 @@ int main() {
             }
         }
 
-            cout << "Type 'R' to randomize again (You will have to select side again) or any other key to end the program" << endl;
+           cout << endl;
+           cout << "Type 'R' to randomize again (You will have to select side again) or any other key to end the program" << endl;
 
             cin >> confirm;
 
